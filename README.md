@@ -6,10 +6,10 @@ Hi, I’m Gowtham a Full-Stack Web Developer with abundant knowledge in MERN Sta
 - How to reach me gowtham.mandla1@gmail.com
 
 #### Technologies
-- ReactJS, Bootstrap, CSS, Express.js, Node.js, MongoDB, Firebase, Git, MySQL
+- ReactJS, Redux, Material UI, Bootstrap, Express.js, Node.js, REST API, MongoDB, Firebase, Git, MySQL, HTML, CSS
 
 #### Programming Languages
-- C, C++, Python, Javascript
+- C, C++, Javascript, Python
 
 
 <!---
