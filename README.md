@@ -1,4 +1,4 @@
-Hi, I’m Gowtham, a Software Developer with abundant knowledge in full-stack web development.
+Hi, I’m Gowtham, a Software Developer with abundant knowledge in web development.
 
 ## About Me
 - I’m a final-year student pursuing an Integrated B.Tech + M.Tech course in Information Technology at IIIT Gwalior.
@@ -6,12 +6,13 @@ Hi, I’m Gowtham, a Software Developer with abundant knowledge in full-stack we
 - I’m looking to collaborate on software development projects
   
 #### Technologies
-- Backend: Node.js, Express.js, REST API
-- Databases: MongoDB, MySQL Firebase
-- Frontend: ReactJS, Redux, Material UI, Bootstrap, Git, HTML, CSS
+- Backend: Nest.js, Express.js, REST API
+- Databases: MongoDB, MySQL
+- Frontend: ReactJS, Material UI
+- Others: Git, OOPs, Data Structures
 
 #### Programming Languages
-- C++, C, Javascript, Python
+- Javascript, C++, C, Python
 
 
 <!---
