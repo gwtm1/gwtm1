@@ -8,7 +8,7 @@ Hi, I’m Gowtham, a Software Developer with abundant knowledge in web developme
 #### Technologies
 - Backend: Nest.js, Express.js, REST API
 - Databases: MongoDB, MySQL
-- Frontend: ReactJS, Material UI
+- Frontend: React.js, Material UI, HTML5, CSS
 - Others: Git, OOPs, Data Structures
 
 #### Programming Languages
